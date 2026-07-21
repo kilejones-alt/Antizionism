@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Choose USA.gov RSS feeds</title>
+    <link>http://www.usa.gov</link>
+    <description>Feeds from USA.gov that you can subscribe to if interested.</description>
+    <item>
+       <title>News and Features from USA.gov</title>
+       <link>http://www.usa.gov/rss/updates.xml?WT.rss_f=USA.gov+Updates+News+and+Features&amp;WT.rss_ev=s</link>
+       <description>Stay on top of government news and information with the USA.gov News and Features RSS feed.  The feed is updated when news and featured content are added to the USA.gov website.</description>
+    </item>
+  </channel>
+</rss>
